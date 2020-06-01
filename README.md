@@ -3,8 +3,8 @@
 Simple Linear Regression implementation using Golang.
 Read my explanation here :
 
-- en version : 
-- id version : 
+- en version : <https://blog.gavinda.dev/posts/implementing-linear-regression-in-go/>
+- id version : <https://medium.com/@gavindakinandana/mencoba-linear-regression-di-golang-c5c38816057b>
 
 ## How to run
 
